@@ -3,3 +3,7 @@ checking the movement from local git to remote github location
 
 
 this is my second amd
+
+
+
+final edited at remote github
